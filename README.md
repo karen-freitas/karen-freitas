@@ -2,6 +2,10 @@
 
 👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras Front-end.
 
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karen_freitas)](https://github.com/karen-freitas/github-readme-stats) -->
+
+
+
  <div> 
   <a href="https://www.linkedin.com/in/karen-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:karenfcorrea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
