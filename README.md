@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2575E9&size=24&lines=Hello+World!+Eu+sou+a+Karen!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2881A5&size=24&lines=Hello+World!+Eu+sou+a+Karen!)](https://git.io/typing-svg)
 
-👩‍💻 Cursando o bootcamp da Laboratória, um treinamento intensivo para formação de desenvolvedoras front-end.
+👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras front-end.
 
 
  <div> 
