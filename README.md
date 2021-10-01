@@ -1,4 +1,7 @@
-## Olá, eu sou a Karen 👩‍💻! Seja bem-vindo(a)!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2575E9&size=24&lines=Hello+World!+Eu+sou+a+Karen!)](https://git.io/typing-svg)
+
+👩‍💻 Cursando o bootcamp da Laboratória, um treinamento intensivo para formação de desenvolvedoras front-end.
+
 
  <div> 
   <a href="https://www.linkedin.com/in/karen-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
