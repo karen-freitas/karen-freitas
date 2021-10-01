@@ -1,11 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2881A5&size=24&lines=Hello+World!+Eu+sou+a+Karen!)](https://git.io/typing-svg)
 
-👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras front-end.
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras Front-end.
 
  <div> 
   <a href="https://www.linkedin.com/in/karen-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
