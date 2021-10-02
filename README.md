@@ -33,8 +33,15 @@
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas)](https://github.com/anuraghazra/github-readme-stats)-->                                                                                                                                          
                                                                                                                                           
 <!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karen_freitas)](https://github.com/karen-freitas/github-readme-stats) -->
-
-<!--![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=karenfreitas&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)-->
+                                                                                                                                         
+### Projetos destaque
+                                                                                                                                                                                                                                                                        
+  <!--  <a href="https://github.com/karen-freitas/SAP006-burger-queen-api-client">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=SAP006-burger-queen-api-client&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="crnn-pytorch" />
+ </a>
+ <a href="https://github.com/karen-freitas/bookish-social-network">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=bookish-social-network&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="crnn-pytorch" />
+ </a>-->
                                                                                                                                           
   ##
 
