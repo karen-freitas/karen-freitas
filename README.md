@@ -30,18 +30,27 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
                                                                                                                                           
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas)](https://github.com/anuraghazra/github-readme-stats)-->                                                                                                                                          
+
                                                                                                                                           
-<!--  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karen_freitas)](https://github.com/karen-freitas/github-readme-stats) -->
+ ### 📊 O que fiz na última semana 
+                                                                                                                                          
+<div align="center" style="display: inline_block"><br>
+                                                                                                                                          
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&title_color=904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+                                                                                                                                          
                                                                                                                                          
-### Projetos destaque
-                                                                                                                                                                                                                                                                        
-  <!--  <a href="https://github.com/karen-freitas/SAP006-burger-queen-api-client">
+### 📌 Projetos em destaque
+                                                                                                                                                                                 
+
+<div align="center"><br>
+ <a href="https://github.com/karen-freitas/SAP006-burger-queen-api-client">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=SAP006-burger-queen-api-client&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="crnn-pytorch" />
- </a>
- <a href="https://github.com/karen-freitas/bookish-social-network">
+  </a>
+  <a href="https://github.com/karen-freitas/bookish-social-network">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=bookish-social-network&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="crnn-pytorch" />
- </a>-->
+  </a>
+</div>
                                                                                                                                           
   ##
 
