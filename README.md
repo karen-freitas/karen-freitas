@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=904E95&lines=Hello+World!+Eu+sou+a+Karen!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=904E95&size=30&lines=Hello+World!;Eu+sou+a+Karen!;+Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+
 
 👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras Front-end.
 
- <div> 
+ <div align="center"> 
+ <br>
   <a href="https://www.linkedin.com/in/karen-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:karenfcorrea@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
