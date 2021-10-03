@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=904E95&size=30&lines=Hello+World!;Eu+sou+a+Karen!;+Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+<div align="center" style="display: inline_block"><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=904E95&size=30&center=true&width=600&height=51&lines=Hello%2C+World!;Eu+sou+a+Karen!;+Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+
+</div>
 
 
 👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras Front-end.
@@ -38,7 +42,7 @@
                                                                                                                                           
 <div align="center" style="display: inline_block"><br>
                                                                                                                                           
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&title_color=904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![karen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&title_color=904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
                                                                                                                                           
                                                                                                                                          
