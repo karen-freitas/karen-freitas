@@ -30,14 +30,14 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
                                                                                                                                           
-
+##
                                                                                                                                           
  ### 📊 O que fiz na última semana 
                                                                                                                                           
 <div align="center" style="display: inline_block"><br>
                                                                                                                                           
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&title_color=904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+</div><br>
                                                                                                                                           
                                                                                                                                          
 ### 📌 Projetos em destaque
@@ -50,9 +50,11 @@
   <a href="https://github.com/karen-freitas/bookish-social-network">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=bookish-social-network&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="social-network" />
   </a>
-</div>
+</div><br>
                                                                                                                                           
   ##
+  
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="karen-freitas' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karen-freitas&bg_color=ffff&color=904E95&line=F1E05A&point=924E92&hide_border=true" /></a>
 
- ![Snake animation](https://github.com/karen-freitas/karen-freitas/blob/output/github-contribution-grid-snake.svg)
+<!--  ![Snake animation](https://github.com/karen-freitas/karen-freitas/blob/output/github-contribution-grid-snake.svg) -->
                  
