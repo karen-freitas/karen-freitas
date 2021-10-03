@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://github.com/karen-freitas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=karen-freitas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=karen-freitas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karen-freitas&layout=compact&langs_count=7&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </div>
 
