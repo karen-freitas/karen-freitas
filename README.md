@@ -42,7 +42,7 @@
                                                                                                                                           
 <div align="center" style="display: inline_block"><br>
                                                                                                                                           
-[![karen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&title_color=904E95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![karen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div><br>
                                                                                                                                           
                                                                                                                                          
