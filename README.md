@@ -54,7 +54,7 @@
    <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=SAP006-burger-queen-api-client&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="burger-queen" />
   </a>
   <a href="https://github.com/karen-freitas/bookish-social-network">
-   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=bookish-social-network&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="social-network" />
+   <img height="120em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karen-freitas&repo=divino-burger-api&show_icons=true&line_height=27&title_color=ffff&text_color=ffff&icon_color=ffff&bg_color=30,e96443,904e95&" alt="social-network" />
   </a>
 </div><br>
                                                                                                                                           
