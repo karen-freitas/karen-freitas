@@ -38,12 +38,12 @@
                                                                                                                                           
 ##
                                                                                                                                           
- ### 📊 O que fiz na última semana 
+<!--  ### 📊 O que fiz na última semana 
                                                                                                                                           
 <div align="center" style="display: inline_block"><br>
                                                                                                                                           
 [![karen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=karenfreitas&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div><br>
+</div><br> -->
                                                                                                                                           
                                                                                                                                          
 ### 📌 Projetos em destaque
