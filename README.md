@@ -60,7 +60,7 @@
                                                                                                                                           
   ##
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="karen-freitas' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karen-freitas&bg_color=ffff&color=904E95&line=F1E05A&point=924E92&hide_border=true" /></a>
+<!--   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="karen-freitas' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=karen-freitas&bg_color=ffff&color=904E95&line=F1E05A&point=924E92&hide_border=true" /></a> -->
 
 <!--  ![Snake animation](https://github.com/karen-freitas/karen-freitas/blob/output/github-contribution-grid-snake.svg) -->
                  
