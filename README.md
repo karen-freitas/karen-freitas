@@ -5,8 +5,6 @@
 </div>
 
 
-👩‍💻 Cursando o bootcamp da [Laboratória](https://www.laboratoria.la/br), um treinamento intensivo para formação de desenvolvedoras Front-end.
-
  <div align="center"> 
  <br>
   <a href="https://www.linkedin.com/in/karen-freitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
